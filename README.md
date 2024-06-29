@@ -36,3 +36,6 @@ If an invalid expression is entered, an error message is displayed.
 Buttons are created with a light blue background and a solid border.
 The display has a light gray background.
 The layout is organized in a grid pattern.
+
+## Preview
+![image](https://github.com/priyanshap/Tkinter-Calculator/assets/158167690/b589d1b6-a00b-4afd-a90a-e9a53801cf72)
